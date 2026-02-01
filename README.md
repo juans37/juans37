@@ -10,8 +10,8 @@ Currently, I am expanding my technical horizon by bridging the gap between Game 
 ### 🛠️ Technical Arsenal
 
 **Core Game Development**
-- **Engine:** Unity (2D/3D)
-- **Languages:** C#, C++, Python
+- **Engine:** Unity (2D/3D), Godot & UEFN
+- **Languages:** C#, C++, Python, GDScript, Verse
 - **Specialties:** Gameplay Architecture, Physics Systems, Code Optimization, Procedural Generation (PCG).
 
 **Web Development & Automation**
