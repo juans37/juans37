@@ -23,18 +23,9 @@ Currently, I am expanding my technical horizon by bridging the gap between Game 
 
 ### 🚀 Featured Projects
 
-* **[Alumbra & Garak&Bam](https://juans37.github.io/)** – Lead developer focusing on tight gameplay mechanics and polished player feedback.
-* **Procedural Systems** – Exploring algorithmic level design and dynamic world-building in Unity.
-* **Web-Base Tooling** – Currently building JS-based projects to integrate game data with web interfaces.
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juans37&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juans37&layout=compact&langs_count=7&theme=visual_studio_code" />
-</p>
+* **[Alumbra](https://juans37.github.io/)** – A 2D spooky Metroidvania focusing on atmospheric storytelling and tight platforming mechanics. *(In Development - See gameplay GIFs in portfolio)*
+* **[Garak & Bam](https://juans37.github.io/)** – A 2.5D Top-Down Roguelite featuring a procedurally generated world and complex enemy AI. *(In Development - See gameplay GIFs in portfolio)*
+* **[Iditek Journey](https://iditekco.itch.io/iditek-journey-for-iphone)** – A high-speed endless runner optimized for mobile devices (iOS/Android).
 
 ---
 
